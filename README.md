@@ -4,8 +4,13 @@
 The purpose of this analysis is to use visualizations and to use the Citibike program, as an example, to gather a deeper understanding of the users, product demands, and other data points of a bike-sharing program in order to  increase stakeholder engagement of starting a similar business for the city of Des Moines.
 
 ## Results: 
-<img width="763" alt="1" src="https://user-images.githubusercontent.com/115126898/215026909-cc077cad-4942-4f90-a758-2a229473a441.png">
+The majority of users complete their trip and return the bikes within an hour, which can mean that bike availability would not usually be a problem since the user trips are short.
+1. <img width="763" alt="1" src="https://user-images.githubusercontent.com/115126898/215026909-cc077cad-4942-4f90-a758-2a229473a441.png">
+
+2. The user ratio of male to female is around 3 to 1.
 <img width="763" alt="2" src="https://user-images.githubusercontent.com/115126898/215026914-879707fd-e0f7-47ab-a0ee-0a73cc15082c.png">
+
+3. Demand in the weekdays are 
 <img width="763" alt="3" src="https://user-images.githubusercontent.com/115126898/215026920-9d69f02b-b992-40aa-bf20-74ebb39d2de0.png">
 <img width="763" alt="4" src="https://user-images.githubusercontent.com/115126898/215026925-5be9c3db-7453-4fd6-af66-e4bb294f1ec0.png">
 <img width="763" alt="5" src="https://user-images.githubusercontent.com/115126898/215026931-5e49f7bc-ef78-4f58-80ca-cf9feee7c73b.png">
